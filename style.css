@@ -1,0 +1,34 @@
+#site {
+    background-color:#ff3647;
+    color:chartreuse;
+   
+    
+}
+
+#texto{
+    background-color: bisque;
+    color:darkturquoise;
+    text-align: justify;
+}
+
+.box{
+    width: 500px;
+    height: 100px;
+    padding: 0px;
+    border: 5px dashed blue;
+    margin: 30px;
+    font-family: "Playwrite BE VLG", cursive;
+}
+
+#imagem-comida{
+   width: 50%;
+
+}
+
+#div-imagem{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    background-color: aqua;
+    height: 500px;
+}
